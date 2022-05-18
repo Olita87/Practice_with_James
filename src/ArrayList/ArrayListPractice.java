@@ -1,2 +1,5 @@
-package ArrayList;public class ArrayListPractice {
+package ArrayList;
+
+public class ArrayListPractice {
+
 }
